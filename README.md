@@ -1,2 +1,3 @@
 # QR-code
-## this is one thing
+
+## This Is My First Project: QR code component
